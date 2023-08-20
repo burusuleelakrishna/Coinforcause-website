@@ -1,1 +1,1 @@
-# Coinforcause-website
+# CoinForCause-website
